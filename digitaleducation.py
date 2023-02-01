@@ -37,7 +37,7 @@ try:
 
     rating = 4
     print("go")
-    bot = telebot.TeleBot("5778681936:AAFXfXzhlC8k-LYHnm9h6GovbZdWCVuxv3g")
+    bot = telebot.TeleBot("")
 
 
 
